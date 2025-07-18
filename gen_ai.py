@@ -1,7 +1,7 @@
 import random
 import os
 import asyncio
-from openai import AsyncOpenAI,audio
+from openai import AsyncOpenAI
 import google.genai as genai
 from dotenv import load_dotenv
 from portkey_ai import AsyncPortkey
